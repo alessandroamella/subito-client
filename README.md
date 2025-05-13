@@ -49,7 +49,7 @@ pnpm install
 pnpm dev
 ```
 
-The application will be available at `http://localhost:3000`
+The development server will be available at `http://localhost:3000`, while the production server will be available at `http://localhost:4387`.
 
 ## Development
 
